@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100&family=Montserrat:wght@100&family=Roboto:wght@100&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	background: hsl(217, 54%, 11%);
+}
+
+
+
+#container {
+
+	width: 300px;
+	margin: 0 auto;
+	background: hsl(216, 50%, 16%);
+	margin-top: 150px;
+	border-radius: 10px;
+
+}
+
+					/*INICO AREA IMAGEM*/
+
+
+#imagem {
+	width: 250px;
+	margin-left: 25px;
+	}
+
+#imagem img {
+
+	margin-top: 20px;
+	border-radius: 10px;	
+}
+
+
+h2{
+	
+	font-size: 18px;
+	color: hsl(0, 0%, 100%);
+
+}
+
+p{
+	color: hsl(215, 51%, 70%);
+	font-family: 'Outfit', sans-serif;
+	font-size: 15px;
+}
+
+			/*FIM AREA IMAGEM*/
+
+
+			/*AREA LOGO*/
+
+#logo {
+
+color: hsl(178, 100%, 50%);
+
+}
+
+#num {
+	margin-left: 3px;
+	color: hsl(178, 100%, 50%);
+	font-family: 'Outfit', sans-serif;
+	font-size: 13px;
+}
+
+#logo2 {
+margin-left: 60px;
+color: hsl(215, 51%, 70%);
+}
+
+#logo2_text {
+
+	color: hsl(215, 51%, 70%);
+	font-family: 'Outfit', sans-serif;
+	font-size: 12px;
+	margin-left: 5px;
+}
+
+#border {
+
+	border-bottom: 1px solid;
+	border-color: hsl(215, 32%, 27%);
+	margin-top: 17px;
+
+}
+		/*FIM AREA LOGO*/
+
+
+
+		/*INICIO AREA LOGO 2*/
+
+#img {
+
+	padding-bottom: 15px;
+	line-height: 15px;
+
+}
+
+
+#img img {
+
+	border: 1px solid #fff;
+	border-radius: 50%;
+
+
+}
+
+#span {
+
+	float: right;
+	margin-top: 25px;
+	margin-right: 40px;
+}
+
+#logo_img_texto  {
+	color: hsl(215, 51%, 70%);
+	font-family: 'Outfit', sans-serif;
+	font-size: 14px;
+}
+
+#logo_img_texto2 {
+
+	color: #fff;
+	margin-left: 3px;
+}
+
+
